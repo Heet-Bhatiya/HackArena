@@ -43,4 +43,19 @@ This replaces manual inspection with an automated QA pipeline.
 
 ---
 
-## 📂 Project Structure
+## ▶️ How to Run
+1. Open Google Colab
+2. Upload the notebook `street_geometry_validation.ipynb`
+3. Upload the provided `.wkt` file
+4. Run all cells
+5. The error report will be generated automatically
+
+---
+
+## 📤 Output Example
+```json
+{
+  "street_id": 14,
+  "error_type": "Invalid Line Geometry",
+  "reason": "Zero-length line"
+}
