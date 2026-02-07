@@ -1,0 +1,182 @@
+[
+    {
+        "street_id": 0,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected number but encountered end of stream"
+    },
+    {
+        "street_id": 1,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected word but encountered number: '7081.75'"
+    },
+    {
+        "street_id": 2,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected word but encountered number: '7105.3'"
+    },
+    {
+        "street_id": 3,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected word but encountered number: '7154.42'"
+    },
+    {
+        "street_id": 4,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected word but encountered number: '7225.94'"
+    },
+    {
+        "street_id": 5,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected word but encountered number: '7247.57'"
+    },
+    {
+        "street_id": 6,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected word but encountered number: '7262.87'"
+    },
+    {
+        "street_id": 15,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected number but encountered end of stream"
+    },
+    {
+        "street_id": 16,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected word but encountered number: '7197.9'"
+    },
+    {
+        "street_id": 19,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected number but encountered end of stream"
+    },
+    {
+        "street_id": 20,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected word but encountered number: '7215.02'"
+    },
+    {
+        "street_id": 21,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected word but encountered number: '7183.53'"
+    },
+    {
+        "street_id": 24,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected number but encountered end of stream"
+    },
+    {
+        "street_id": 25,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected word but encountered number: '7168.38'"
+    },
+    {
+        "street_id": 28,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected number but encountered end of stream"
+    },
+    {
+        "street_id": 29,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected word but encountered number: '7165.7'"
+    },
+    {
+        "street_id": 30,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected word but encountered number: '7175.66'"
+    },
+    {
+        "street_id": 33,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected number but encountered end of stream"
+    },
+    {
+        "street_id": 34,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected word but encountered number: '7171.32'"
+    },
+    {
+        "street_id": 36,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected number but encountered end of stream"
+    },
+    {
+        "street_id": 37,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected word but encountered number: '7179.22'"
+    },
+    {
+        "street_id": 38,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected number but encountered end of stream"
+    },
+    {
+        "street_id": 39,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected word but encountered number: '7123.32'"
+    },
+    {
+        "street_id": 40,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected word but encountered number: '7116'"
+    },
+    {
+        "street_id": 41,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected number but encountered end of stream"
+    },
+    {
+        "street_id": 42,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected word but encountered number: '7098.7'"
+    },
+    {
+        "street_id": 43,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected number but encountered end of stream"
+    },
+    {
+        "street_id": 44,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected word but encountered number: '7094.53'"
+    },
+    {
+        "street_id": 54,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected number but encountered end of stream"
+    },
+    {
+        "street_id": 55,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected word but encountered number: '7129.35'"
+    },
+    {
+        "street_id": 56,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected word but encountered number: '7159.33'"
+    },
+    {
+        "street_id": 57,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected number but encountered end of stream"
+    },
+    {
+        "street_id": 58,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected word but encountered number: '7128.24'"
+    },
+    {
+        "street_id": 59,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected word but encountered number: '7106.83'"
+    },
+    {
+        "street_id": 70,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected number but encountered end of stream"
+    },
+    {
+        "street_id": 71,
+        "error_type": "Parsing Error",
+        "reason": "ParseException: Expected word but encountered number: '7083.29'"
+    }
+]
